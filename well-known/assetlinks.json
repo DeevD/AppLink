@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.heinhtet.deevd.applinking",
+    "sha256_cert_fingerprints":
+    ["57:03:60:88:06:8E:E2:3D:CB:50:B8:7E:24:2F:C4:01:1D:88:35:DA:5C:16:A0:08:6E:99:7F:DA:90:FE:28:88"]
+  }
+}]
